@@ -1,4 +1,3 @@
 datasciencecoursera
 ===================
-
-My First Repo on Github!
+## This is a markdown file
